@@ -2,8 +2,11 @@
   👋 Hi, I’m Bassel Shaheen
 </h1>
 
-<h3 align="center>![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+slab&duration=4000&pause=1000&color=F77D23&center=true&vCenter=true&width=435&lines=Welcome+to+Zone+06++%3A)</h3>
-
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+slab&duration=4000&pause=1000&color=F77D23&center=true&vCenter=true&width=435&lines=Welcome+to+Zone+06++%3A" alt="Typing SVG" />
+  </h3>
+</div>
 ---
 
 ## 🌿 About Me
