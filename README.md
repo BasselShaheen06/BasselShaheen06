@@ -1,4 +1,7 @@
-## 👋 Hi, I’m Bassel Shaheen
+<p align="center">
+  T## 👋 Hi, I’m Bassel Shaheen
+</p>
+
 
 Biomedical Engineer • Curious Mind • Quiet Builder
 
