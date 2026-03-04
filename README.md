@@ -2,7 +2,7 @@
 
 Biomedical Engineer • Curious Mind • Quiet Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+slab&duration=4000&pause=1000&color=F77D23&center=true&vCenter=true&width=435&lines=Welcome+to+Zone+06++%3A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+slab&duration=4000&pause=1000&color=F77D23&center=true&vCenter=true&width=435&lines=Welcome+to+Zone+06++%3A)
 
 ---
 
