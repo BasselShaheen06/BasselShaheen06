@@ -1,6 +1,6 @@
-<p align="center">
-  T## 👋 Hi, I’m Bassel Shaheen
-</p>
+<h1 align="center" fo>
+  👋 Hi, I’m Bassel Shaheen
+</h1>
 
 
 Biomedical Engineer • Curious Mind • Quiet Builder
